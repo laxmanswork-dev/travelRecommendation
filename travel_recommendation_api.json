@@ -1,0 +1,40 @@
+{
+    "beaches": [
+        {
+            "name": "Goa Beach",
+            "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+            "description": "Sunny beaches, vibrant nightlife and blue waters."
+        },
+        {
+            "name": "Marina Beach",
+            "imageUrl": "https://images.unsplash.com/photo-1526481280690-4d6870c421db",
+            "description": "One of the world's longest urban beaches located in Chennai."
+        }
+    ],
+
+    "temples": [
+        {
+            "name": "Meenakshi Temple",
+            "imageUrl": "https://images.unsplash.com/photo-1583243223109-1e7f2ba049d3",
+            "description": "A historic Hindu temple located in Madurai, Tamil Nadu."
+        },
+        {
+            "name": "Brihadeeswara Temple",
+            "imageUrl": "https://images.unsplash.com/photo-1587814216172-96ff27ecbc43",
+            "description": "A UNESCO World Heritage temple located in Thanjavur."
+        }
+    ],
+
+    "countries": [
+        {
+            "name": "India",
+            "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+            "description": "A land of cultural diversity, history and spirituality."
+        },
+        {
+            "name": "Japan",
+            "imageUrl": "https://images.unsplash.com/photo-1549692520-acc6669e2f0c",
+            "description": "A beautiful blend of tradition and modern technology."
+        }
+    ]
+}
